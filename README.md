@@ -3,7 +3,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="description" content="Solicite crédito para investimento com parcelas acessíveis. Rural, imóvel, veículos e mais!" />
-  <meta name="theme-color" content="#28a745" />
+  <meta name="theme-color" content="#ffffff" />
   <title>Crédito para Investimentos</title>
   <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap" rel="stylesheet">
   <style>
