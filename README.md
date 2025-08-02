@@ -149,7 +149,7 @@
       <input type="text" id="nome" placeholder="Digite seu nome" required />
 
       <label for="telefone">Telefone (com DDD)</label>
-      <input type="tel" id="telefone" placeholder="Ex: 98999999999" pattern="\\d{10,11}" required />
+      <input type="tel" pattern="[0-9]{10,11}" placeholder="Ex: 98999999999" required> />
 
       <label for="cidade">Cidade</label>
       <input type="text" id="cidade" placeholder="Sua cidade" required />
