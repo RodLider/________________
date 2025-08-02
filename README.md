@@ -1,9 +1,10 @@
+
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="description" content="Solicite crédito para investimento com parcelas acessíveis. Rural, imóvel, veículos e mais!" />
-  <meta name="theme-color" content="#ffffff" />
+  <meta name="theme-color" content="#28a745" />
   <title>Crédito para Investimentos</title>
   <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap" rel="stylesheet">
   <style>
@@ -149,7 +150,7 @@
       <input type="text" id="nome" placeholder="Digite seu nome" required />
 
       <label for="telefone">Telefone (com DDD)</label>
-      <input type="tel" pattern="[0-9]{10,11}" placeholder="Ex: 98999999999" required>/>
+      <input type="tel" id="telefone" pattern="[0-9]{10,11}" placeholder="Ex: 98999999999" required>
 
       <label for="cidade">Cidade</label>
       <input type="text" id="cidade" placeholder="Sua cidade" required />
